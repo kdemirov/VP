@@ -1,0 +1,9 @@
+E:\vizuelno programiranje\pica\naracka na piva\naracka na piva\bin\Debug\naracka na piva.exe.config
+E:\vizuelno programiranje\pica\naracka na piva\naracka na piva\bin\Debug\naracka na piva.exe
+E:\vizuelno programiranje\pica\naracka na piva\naracka na piva\bin\Debug\naracka na piva.pdb
+E:\vizuelno programiranje\pica\naracka na piva\naracka na piva\obj\Debug\naracka na piva.csprojResolveAssemblyReference.cache
+E:\vizuelno programiranje\pica\naracka na piva\naracka na piva\obj\Debug\naracka_na_piva.Form1.resources
+E:\vizuelno programiranje\pica\naracka na piva\naracka na piva\obj\Debug\naracka_na_piva.Properties.Resources.resources
+E:\vizuelno programiranje\pica\naracka na piva\naracka na piva\obj\Debug\naracka na piva.csproj.GenerateResource.Cache
+E:\vizuelno programiranje\pica\naracka na piva\naracka na piva\obj\Debug\naracka na piva.exe
+E:\vizuelno programiranje\pica\naracka na piva\naracka na piva\obj\Debug\naracka na piva.pdb

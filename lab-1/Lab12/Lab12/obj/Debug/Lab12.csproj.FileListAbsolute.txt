@@ -1,0 +1,5 @@
+E:\vizuelno programiranje\lab-1\Lab12\Lab12\bin\Debug\Lab12.exe.config
+E:\vizuelno programiranje\lab-1\Lab12\Lab12\bin\Debug\Lab12.exe
+E:\vizuelno programiranje\lab-1\Lab12\Lab12\bin\Debug\Lab12.pdb
+E:\vizuelno programiranje\lab-1\Lab12\Lab12\obj\Debug\Lab12.exe
+E:\vizuelno programiranje\lab-1\Lab12\Lab12\obj\Debug\Lab12.pdb

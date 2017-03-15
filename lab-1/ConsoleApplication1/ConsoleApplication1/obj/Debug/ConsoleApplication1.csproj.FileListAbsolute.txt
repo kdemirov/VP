@@ -1,0 +1,6 @@
+E:\vizuelno programiranje\lab-1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\vizuelno programiranje\lab-1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\vizuelno programiranje\lab-1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\vizuelno programiranje\lab-1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\vizuelno programiranje\lab-1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\vizuelno programiranje\lab-1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
